@@ -18,7 +18,7 @@ The goal is to analyze sales performance across regions, products, and retailers
 ---
 
 ## 📂 Project Contents
-- `Dashboard.pbix` → Power BI project file  
+- `adidas.pbix` → Power BI project file  
 - `Dataset.csv` → Sample Adidas sales dataset  
 - `Dashboard.png` → Dashboard screenshot  
 
